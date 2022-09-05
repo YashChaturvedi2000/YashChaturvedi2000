@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to build my CV with many open source projects on various topics.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love dogs, code and read and debug...
 
 
